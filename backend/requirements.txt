@@ -1,0 +1,10 @@
+websockets 
+soundfile 
+numpy 
+torch 
+git+https://github.com/openai/whisper.git
+fastapi 
+sounddevice
+uvicorn 
+whisper
+torch
